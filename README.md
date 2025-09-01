@@ -9,6 +9,9 @@ Features:
 5. Generates a report to analyse spending habits
 
 Project Info:
+
 Language: Python
+
 Backend: SQL
+
 Type: Student Project(Class 12 CBSE/CS)
