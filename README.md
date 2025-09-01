@@ -1,5 +1,6 @@
 # VaultVue
-A simple personal finance tracker that uses python and SQL
+A simple personal finance tracker that uses python and SQL.
+
 Features:
 1. Add and categorise expenses
 2. Set budgets and track savings
